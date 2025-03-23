@@ -53,8 +53,8 @@ a.directional{
 }
 
 @media (max-width: 820px){
-    div#links{
-        display: none;
+    div#navbar{
+        grid-template-columns: 1fr 1fr 1fr;
     }
     div#logo-long{
         display: none;
@@ -62,8 +62,8 @@ a.directional{
     div#logo-short{
         display: block;
     }
-    div#navbar{
-        grid-template-columns: 1fr 1fr 1fr;
+    div#links{
+        display: none;
     }
     div#menu {
         display: block;
