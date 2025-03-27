@@ -12,6 +12,9 @@
      <link>http://alexanderle.com/create-an-rss-feed.html</link>
      <guid>http://alexanderle.com/create-an-rss-feed.html</guid>
      <pubDate>Wed, 11 Apr 2012 00:00:00 MST</pubDate>
+     <content:encoded><![CDATA[
+     This is <b>bold</b>.
+     ]]></content:encoded>
    </item>
 </channel>
 </rss>
