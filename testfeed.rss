@@ -17,5 +17,15 @@
      This is <b>bold</b>.
      ]]></content:encoded>
    </item>
+   <item>
+     <title>hehe</title>
+     <link>http://alexanderle.com/create-an-rss-feed.html</link>
+     <guid>http://alexanderle.com/create-an-rss-feed.html</guid>
+     <description> niste text </description>
+     <pubDate>Wed, 11 Apr 2012 00:00:00 MST</pubDate>
+          <content:encoded><![CDATA[
+     This is <b>bold</b>.
+     ]]></content:encoded>
+   </item>
 </channel>
 </rss>
