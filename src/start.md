@@ -14,4 +14,4 @@ Nu este un blog sau un site personal, si nici un fel de CV interactiv, deci pot 
 paginile prezentate. Pagina asta e aproape imposibil de gasit neintentionat, deci presupun ca daca citesti poti sa ma si contactezi cu
 intrebari.
 
-**Distratie placuta in a gasi ce cauti!**
+**Distratie placuta in a gasi ce cauti!!**
