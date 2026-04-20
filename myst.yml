@@ -17,6 +17,10 @@ project:
           children:
             - url: "https://github.com/VladGeorgeBalas/simd-playground.git"
               title: "SIMD C Playground"
+    - title: Proiecte
+      children:
+        - file: src/MySt/start.md
+          title: Myst & Co
 
 site:
   template: book-theme
